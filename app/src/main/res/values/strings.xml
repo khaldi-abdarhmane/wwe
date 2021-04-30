@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="nom">nom :</string>
+    <string name="destri">la description :</string>
+
+    <string-array name="tab_name">
+
+
+
+
+
+    <item name="a">  Kaouane</item>
+    <item>  Bouguesri </item>
+    <item>  Saidouni </item>
+    <item>    Bouabba </item>
+    <item>   Si Tayeb </item>
+    <item>    Abidat </item>
+    <item>   Larbi </item>
+    <item>   KRIOUDJ </item>
+    <item>   KERMOUCHE </item>
+    <item>   MERAGHNI </item>
+    <item>   ADJAL </item>
+    <item>   Yanes </item>
+    <item>   Kati </item>
+    <item>   Tiaiba </item>
+    <item>   Abdelliche </item>
+
+
+    </string-array>
+
+    <string-array name="tab_name2">
+
+
+
+
+    <item> بوجيسري</item>
+    <item>الصيدوني</item>
+    <item> بوابا</item>
+    <item>  إذا كان الطيب</item>
+    <item>   عبيدات</item>
+        <item>  العربي</item>
+        <item>  قريود</item>
+        <item> كرموش</item>
+
+        <item> أدجال</item>
+        <item> يانيس</item>
+        <item>  كاتي</item>
+        <item> طيبة</item>
+    <item>  العبدليش</item>
+    </string-array>
+
+    <string-array name="tab_destr">
+
+        <item>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
+        <item>bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb</item>
+        <item>ccccccccccccccccccccccccccccccccccccc</item>
+        <item>ddddddddddddddddddddddddddddddddddddd</item>
+        <item>eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee</item>
+        <item>fffffffffffffffffffffffffffffffffffff</item>
+        <item>ttttttttttttttttttttttttttttttttttttt</item>
+        <item>yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy</item>
+        <item>rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr</item>
+        <item>nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn</item>
+        <item>1hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</item>
+        <item>dddddddddddddddddddddddddddddddddddddd</item>
+        <item>eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee</item>
+        <item>rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr</item>
+        <item>rrrrrrrrrrrrrrrrrrrrrrrrrr</item>
+        <item>uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu</item>
+
+
+    </string-array>
+</resources>
